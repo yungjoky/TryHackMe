@@ -177,8 +177,6 @@ Mitigating against exploiting SQL injection flaws and protecting database server
 
 By following these key points, organizations can significantly reduce the risk of SQL injection attacks and ensure the integrity and security of their database servers. It is essential to adopt a proactive approach to security, keeping up with the latest best practices and staying vigilant against emerging threats.
 
-After deploying the machine, we visit its IP by **`MACHINE_IP:80`**.
-
 ### Summary Questions
 
 1. **What is the name of the interesting directory?**  
